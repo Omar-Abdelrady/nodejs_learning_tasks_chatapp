@@ -1,0 +1,6 @@
+.idea/**
+# Ignore node_modules folder in the frontend directory
+frontend/node_modules
+
+# Ignore node_modules folder in the backend directory
+backend/node_modules
